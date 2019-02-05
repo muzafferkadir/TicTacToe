@@ -434,5 +434,5 @@ istek()
 print('Oyun Bitti')
 print('Hazırlayan: Muzaffer Kadir YILMAZ')
 
-
-
+## I think i should refactor code and translate English
+## Coming soon
